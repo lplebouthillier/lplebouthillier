@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Louis-Philippe Lebouthillier</h1>
+<h1 align="center">Hi 👋, I'm LP</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
